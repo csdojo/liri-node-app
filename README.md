@@ -1,4 +1,4 @@
-# liri node app
+# LIRI node app
 
 ## Overview
 
@@ -16,4 +16,19 @@ git clone git@github.com:csdojo/liri-node-app.git
 
 cd liri-node-app
 
-[js#1]:
+
+[js#1]:keys.js
+[js#2]:liri.js
+
+[json#1]:package-lock.json
+[json#2]:package.json
+
+[ignore#1]:.gitignore
+
+[env#1]:.env
+
+
+
+
+
+
