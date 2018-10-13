@@ -67,6 +67,7 @@ const spotifyThisSong = (userTypein) => {
 
     let Spotify = require('node-spotify-api');
 
+    // I DONT KNOW HOW TO HIDE MY ID AND SECRET!
     let spotify = new Spotify({
         id: "1ab83b2e45cf4cadad2bb1a31ffbe2ea",
 
