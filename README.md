@@ -21,24 +21,28 @@ git clone
 node liri.js concert-this "band/artist(s)'s name"
 
 :heavy_heart_exclamation:
+
 ![alt text](./concert.PNG)
 
 ====Spotify====
 node liri.js spotify-this-song "name of the song"
 
 :heavy_heart_exclamation:
+
 ![alt text](./spotify.PNG)
 
 ====OMDB====
 node liri.js movie-this "name of the movie"
 
 :heavy_heart_exclamation:
+
 ![alt text](./movie.PNG)
 
 ====Do What It Says====
 node liri.js do-what-it-says
 
 :heavy_heart_exclamation:
+
 ![alt text](./do.PNG)
 
 ## random.txt input format
