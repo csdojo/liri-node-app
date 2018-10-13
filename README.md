@@ -13,7 +13,7 @@ https://csdojo.github.io/liri-node-app/
 
 ## bash
 git clone 
-[Github](git@github.com:csdojo/liri-node-app.git)
+git@github.com:csdojo/liri-node-app.git - automatic!
 
 ## bash how to type in command line
 
